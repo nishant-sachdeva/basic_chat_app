@@ -1,2 +1,2 @@
-# basic_chat_app
+# chat_app
 Making a basic chat app using Django
